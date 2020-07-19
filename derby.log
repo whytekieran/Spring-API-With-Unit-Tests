@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jul 19 16:27:01 BST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0173-67af-7516-00000865c588 
+on database directory memory:B:\Additional Programming Work & Study Notes\SpringPractice\accela-person-api\eb4eba5b-1608-4d61-81c5-6a64626a2d18 with class loader sun.misc.Launcher$AppClassLoader@42a57993 
+Loaded from file:/C:/Users/Kieran/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_251-b08
+user.dir=B:\Additional Programming Work & Study Notes\SpringPractice\accela-person-api
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

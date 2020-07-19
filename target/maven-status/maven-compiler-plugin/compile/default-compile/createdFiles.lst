@@ -1,0 +1,9 @@
+com\whyte\accela\person\PersonService.class
+com\whyte\accela\PersonApiDataApplication.class
+com\whyte\accela\address\Address.class
+com\whyte\accela\address\AddressService.class
+com\whyte\accela\address\AddressController.class
+com\whyte\accela\person\PersonRepository.class
+com\whyte\accela\person\PersonController.class
+com\whyte\accela\address\AddressRepository.class
+com\whyte\accela\person\Person.class
